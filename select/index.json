@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "adolescence",
+  "base_artist": "Layn",
+  "createdAt": "2025-12-18T10:11:00.344553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "03' Adolescence",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_03'_Adolescence_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Germfree Adolescence",
+      "artist": "X-Ray Spex",
+      "has_synced": true,
+      "path": "select/02_Germfree_Adolescence_X-Ray_Spex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "03’ Adolescence [Explicit]",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/03_03’_Adolescence_[Explicit]_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rambling of a Dying Adolescence",
+      "artist": "Current Joys",
+      "has_synced": true,
+      "path": "select/04_Rambling_of_a_Dying_Adolescence_Current_Joys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adolescence",
+      "artist": "Backxwash",
+      "has_synced": false,
+      "path": "select/05_Adolescence_Backxwash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adolescence",
+      "artist": "The Murlocs",
+      "has_synced": true,
+      "path": "select/06_Adolescence_The_Murlocs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eulogy for an Adolescence Shattered Against Elliot St. Pavement (Here's to Being Young!)",
+      "artist": "Ramshackle Glory",
+      "has_synced": false,
+      "path": "select/07_Eulogy_for_an_Adolescence_Shattered_Against_Elliot_St._Pavement_(Here's_to_Being_Ramshackle_Glory.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "神原駿河(沢城みゆき)",
+      "has_synced": true,
+      "path": "select/08_the_last_day_of_my_adolescence_神原駿河(沢城みゆき).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "沢城みゆき",
+      "has_synced": true,
+      "path": "select/09_the_last_day_of_my_adolescence_沢城みゆき.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "adolescence",
+      "artist": "Clammbon",
+      "has_synced": false,
+      "path": "select/10_adolescence_Clammbon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Parade of Adolescence",
+      "artist": "Klimt 1918",
+      "has_synced": true,
+      "path": "select/11_Parade_of_Adolescence_Klimt_1918.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "03' Adolescence - Live",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/12_03'_Adolescence_-_Live_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/13_the_last_day_of_my_adolescence_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "MONOGATARI Series",
+      "has_synced": false,
+      "path": "select/14_the_last_day_of_my_adolescence_MONOGATARI_Series.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "03' Adolescence",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/15_03'_Adolescence_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": true,
+      "path": "select/16_the_last_day_of_my_adolescence_〈物語〉シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "the last day of my adolescence",
+      "artist": "神原駿河",
+      "has_synced": true,
+      "path": "select/17_the_last_day_of_my_adolescence_神原駿河.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "adolescence",
+      "artist": "Layn",
+      "has_synced": false,
+      "path": "select/pl_01_adolescence_Layn.txt"
+    }
+  ]
+}
